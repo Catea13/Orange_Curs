@@ -72,8 +72,6 @@ public class Hook {
     }
 
     public void setup() {
-        String browser = getDriverPath();
-
         getDriverPath();
 
     }
